@@ -1,19 +1,47 @@
-# Media-Integrity-Analysis
-Technical archive of investigative research into global media ecosystems, OSINT methodologies, and data integrity. Specializing in the identification and documentation of non-authentic traffic patterns and automated botnet activity within high-volume digital environments.
-# Media Ecosystem & Data Integrity Research Lab
-### Technical Case Study: CJ ENM Digital Landscape (2016-2026)
+# Hi there 👋
 
-## Overview
-This repository serves as a technical archive for a decade of research into global media traffic integrity. The primary focus is the identification and documentation of non-authentic engagement patterns within high-volume digital environments.
+Experienced professional with 14+ years in fast-paced service and kitchen environments, developing:
 
-## Case Study: CJ ENM / Global Media
-Investigated the "dirty traffic" landscape within the CJ ENM ecosystem, specifically focusing on how automated botnet activity influences digital metrics and platform trust.
+- ✅ Problem-solving under pressure  
+- ✅ Time management and efficiency  
+- ✅ Team collaboration and communication  
 
-### Key Methodology
-* **Traffic Pattern Analysis:** Monitored network signatures for synthetic engagement.
-* **OSINT Reconnaissance:** Utilized open-source intelligence to map botnet infrastructure and distribution.
-* **Audit Documentation:** Compiled datasets highlighting the variance between organic interaction and automated scaling.
+💻 **Tech & Projects**  
 
-## Tools & Environment
-* **Primary Hardware:** Toshiba Research Station / Raspberry Pi 5 Edge Node
-* **Methodologies:** OSINT, Network Analysis, Data Integrity Auditing
+This GitHub highlights hands-on experience in system monitoring, traffic analysis, and problem solving. Projects focus on identifying irregular patterns, testing system reliability, and improving workflows in controlled environments.
+
+### Lab Environment
+- Multiple Raspberry Pi 5 nodes for experimentation and VM testing  
+- Virtual machines: Windows, Linux, Kali, Parrot  
+- System monitoring dashboards  
+- Controlled network and sandbox experiments  
+- *(Future plan: expand into a multi-node Pi 5 cluster for distributed workloads)*
+
+### Key Skills Demonstrated
+- **Pattern Recognition** – connecting small observations into system-wide solutions  
+- **Systems Thinking** – understanding how parts of a system interact for optimal performance  
+- **Independent Problem Solving** – troubleshooting and implementing solutions without supervision  
+- **Lab Environment Management** – running multiple Raspberry Pi 5 nodes and virtual machines  
+- **Documentation & Reporting** – clear technical records of experiments and findings  
+
+### Mini Projects / Examples
+- **CJ ENM Digital Workflow Observation**  
+  - Monitored content pipelines and live events  
+  - Identified bottlenecks and suggested optimizations  
+  - Observed system behavior to improve platform performance  
+
+- **Raspberry Pi 5 Lab Experiments**  
+  - Managed multiple Pi 5 units to test performance and VM operations  
+  - Monitored system behavior, temperature (~23°C), and network interactions  
+
+- **VM Sandbox Experiments**  
+  - Ran Kali, Parrot, and Windows environments simultaneously  
+  - Tested system behavior and network traffic patterns  
+
+🔭 Currently exploring tech, data, and automation opportunities.  
+💡 Passionate about learning, experimenting, and building systems that solve real-world problems.
+
+
+
+
+
