@@ -17,7 +17,7 @@ Cybersecurity enthusiast focused on hands-on labs, offensive security workflows,
 - Web Security Testing (Nmap, SQLMap, Nikto)
 
 ## 📂 Featured Projects
-- MITM Payload Lab → [link]
+- MITM Payload Lab → [https://github.com/Independent-Lab-Archive/mitm-payload-lab]
 - OSINT Sherlock Enhanced → [link]
 - Remote Device Management → [link]
 
