@@ -16,10 +16,13 @@ Cybersecurity enthusiast focused on hands-on labs, offensive security workflows,
 - Remote Device Management (Wake-on-LAN over VPN)
 - Web Security Testing (Nmap, SQLMap, Nikto)
 
-## 📂 Featured Projects
-- MITM Payload Lab → [https://github.com/Independent-Lab-Archive/mitm-payload-lab]
-- OSINT Sherlock Enhanced → [link]
-- Remote Device Management → [link]
+## 🔗 Featured Projects
+
+- MITM Payload Lab → https://github.com/Independent-Lab-Archive/MITM-Payload-Lab  
+- OSINT Sherlock Enhanced → https://github.com/Independent-Lab-Archive/OSINT-Sherlock-Enhanced  
+- Remote Device Management → https://github.com/Independent-Lab-Archive/Remote-Device-Management  
+- Network Lab Setup → https://github.com/Independent-Lab-Archive/Network-Lab-Setup  
+- Web Security Testing → https://github.com/Independent-Lab-Archive/Web-Security-Testing
 
 ## 🎯 Focus
 Building practical cybersecurity skills through controlled lab environments and real-world simulations.
